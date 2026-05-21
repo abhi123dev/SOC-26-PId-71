@@ -45,7 +45,11 @@ week1/
    Go through the reading materials. These will give you a solid grasp of what HTML and CSS are and how they're used to build web pages.
 
 2. **Complete the Assignment**  
-   The assignment will test your understanding of the week's concepts. Complete it and submit via the following Google Form:  
+   The assignment will test your understanding of the week's concepts. Upload it on Github
+   
+    [![GitHub Upload Tutorial](https://img.youtube.com/vi/JB7YD7OKm5g/0.jpg)](https://youtu.be/JB7YD7OKm5g)
+
+   Complete it and submit via the following Google Form:  
    - [Submission Form](will update)
    - Deadline: 30th May, 2026
 
