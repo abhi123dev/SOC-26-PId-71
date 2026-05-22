@@ -1,4 +1,4 @@
-# Week 1 – Getting Started with HTML, CSS and JavaScript
+# Week 1 – Getting Started with HTML, CSS and JavaScript & Version Control
 
 Welcome to **Week 1** of the **Mern and DevOps** 🚀
 
@@ -7,6 +7,7 @@ This week, we’ll dive into the fundamentals of frontend development using **HT
 - **HTML** gives structure to a webpage  
 - **CSS** adds styling and visual design  
 - **JS** adds logic, superpowers, and *vibe* to your webpages. Without it, websites are just fancy posters — beautiful, but dead.
+- **Version control systems** are a category of software tools that help track changes made to files.
 
 By the end of this week, you’ll be able to create simple and structured web pages with proper styling.
 ---
@@ -50,7 +51,7 @@ week1/
     [![GitHub Upload Tutorial](https://img.youtube.com/vi/JB7YD7OKm5g/0.jpg)](https://youtu.be/JB7YD7OKm5g)
 
    Complete it and submit via the following Google Form:  
-   - [Submission Form](will update)
+   - [Submission Form](https://forms.gle/ZYF8u9jjJmHnKhBSA)
    - Deadline: 30th May, 2026
 
 ## Guidelines
