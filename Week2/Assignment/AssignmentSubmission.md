@@ -55,7 +55,7 @@ Submit the following through the Google Form:
 - Demo Video Link
 
 ## 🔗 Submission Form
-[Submission Link]()
+[Submission Link](https://forms.gle/E2e7GfybJdjCm2rf8)
 
 ---
 

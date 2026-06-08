@@ -84,7 +84,7 @@ This video will help you understand how the Dice Game works and to make it clear
 ## 📅 Submission Details
 
 - **Deadline:** TBA, 11:59 PM
-- **Submit here:** [Assignment Submission Form](--)
+- **Submit here:** [Assignment Submission Form](https://forms.gle/E2e7GfybJdjCm2rf8)
 
 ---
 
