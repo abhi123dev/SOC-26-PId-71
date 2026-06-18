@@ -38,7 +38,7 @@ We’ll create an e-commerce platform UI using **React + Tailwind CSS**.
 📁 Refer to the `/Assignment` folder for: Mock UI reference
 
 **Submit your assignment here:**  
-🔗 [Submission Form](-)
+🔗 [Submission Form](https://forms.gle/FCq52Ziviwn8bTRg9)
 
 **Deadline: 21st June, 11:59 PM IST**
 
