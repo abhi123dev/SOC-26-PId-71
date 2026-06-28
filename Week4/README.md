@@ -99,7 +99,7 @@ Good debugging questions lead to faster solutions.
 * Learn backend by **building**, not by passive watching.
 * Spend time understanding HTTP requests and status codes.
 * Read documentation whenever possible.
-* Use Postman to test everything manually.
+* Use Postman to test everything manually(you can watch video 14 this week)
 * Don’t memorize folder structures — understand why they exist.
 
 Helpful resources:
