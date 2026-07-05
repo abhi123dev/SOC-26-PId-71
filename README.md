@@ -2,3 +2,5 @@
 ## Week 1 – HTML, CSS & JavaScript Foundations 
 ## Week 2 – Introduction to React
 ## Week 3 – Tailwind CSS + React
+## Week 4 – Backend Foundations
+## Week 5 – Backend Development
